@@ -78,6 +78,7 @@ npm run dev
 
 **Aryan Kashyap**  
 Frontend Developer | Passionate about UI/UX  
+[LinkedIn](https://www.linkedin.com/in/aryan-kashyap-1953a3275/) • [GitHub](https://github.com/Aryankash21)
 
 ---
 
